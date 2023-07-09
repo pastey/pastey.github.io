@@ -5,6 +5,10 @@
 
 #header { display: none !important; }
 
+body {
+    overscroll-behavior-y: none;
+}
+
 code {
     color: #ffcc00;
     margin: 0 0;
