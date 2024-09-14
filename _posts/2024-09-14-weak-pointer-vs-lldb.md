@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don't trust your eyes when looking at weak pointers. 
+title: Don't trust your eyes when looking at weak pointers
 excerpt_separator: <!--more-->
 ---
 
