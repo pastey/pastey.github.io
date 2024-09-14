@@ -10,7 +10,7 @@ We have some really old piece of code. It's basically a proxy for an NSTimer ret
 
 The code of the timer looks pretty much like this:
 
-```
+```objectivec
 @interface MYAutosaveTimer ()
 @property (nonatomic, weak) MYViewController *owner;
 @end
@@ -34,7 +34,7 @@ The code of the timer looks pretty much like this:
 
 The client code looks something like this:
 
-```
+```objectivec
 - (instancetype)init {
     ...
 
