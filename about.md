@@ -10,4 +10,6 @@ Developer by day. Dad of the two kids by the rest time. And... a developer again
 
 ### Contact me
 
-[https://twitter.com/pastey_12](https://twitter.com/pastey_12)
+[@Pastey@mastodon.social](https://mastodon.social/@Pastey)
+
+[pastey12@gmail.com](mailto:pastey12@gmail.com)
