@@ -1,0 +1,64 @@
+[categories]
+one = "категорія"
+other = "категорії"
+
+[tags]
+one = "тег"
+other = "теги"
+
+[series]
+one = "серія"
+other = "серії"
+
+[authors]
+one = "автор"
+other = "автори"
+
+[posts]
+other = "публікації"
+
+[reading_time]
+one = "Читати одну хвилину"
+other = "Читати {{ .Count }} хвилин"
+
+[page_not_found]
+other = "Сторінку не знайдено"
+
+[page_does_not_exist]
+other = "Вибачте, ця сторінка не існує."
+
+[head_back]
+other = "Ви можете повернутися на <a href=\"{{ . }}\">головну сторінку</a>."
+
+[licensed_under]
+other = "Ліцензовано під"
+
+[powered_by]
+other = "Створено за допомогою"
+
+[see_also]
+other = "Дивіться також в"
+
+[note]
+other = "примітка"
+
+[tip]
+other = "підказка"
+
+[example]
+other = "приклад"
+
+[question]
+other = "питання"
+
+[info]
+other = "інформація"
+
+[warning]
+other = "попередження"
+
+[error]
+other = "помилка"
+
+[link_to_heading]
+other = "Посилання на заголовок"

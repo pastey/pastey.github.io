@@ -44,7 +44,7 @@ weight = 2
 url = "https://mastodon.social/@Pastey"
 
 [languages.en]
-languageName = "English"
+languageName = "🇬🇧"
 
 [[languages.en.menu.main]]
 name = "About"
@@ -53,5 +53,18 @@ url = "about/"
 
 [[languages.en.menu.main]]
 name = "Blog"
+weight = 2
+url = "blog/"
+
+[languages.uk]
+languageName = "🇺🇦"
+
+[[languages.uk.menu.main]]
+name = "Про мене"
+weight = 1
+url = "about/"
+
+[[languages.uk.menu.main]]
+name = "Блог"
 weight = 2
 url = "blog/"
