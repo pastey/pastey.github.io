@@ -1,0 +1,57 @@
+baseURL = "https://pastey.github.io/"
+title = "Pastey's Blog"
+theme = "hugo-coder"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableEmoji = true
+
+[pagination]
+pagerSize = 20
+
+[markup]
+[markup.highlight]
+noClasses = false
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+
+[params]
+author = "Pavlo Shkrabliuk"
+description = "Pavlo Shkrabliuk, Software Developer"
+keywords = "blog,developer,iOS,Swift"
+info = ["Software Developer at Readdle", "PDF Expert iOS Team"]
+avatarURL = "https://avatars.githubusercontent.com/u/3989114?s=400&u=1943ba73b81f412f548871f2bf57e64a50c76087&v=4"
+dateFormat = "January 2, 2006"
+colorScheme = "auto"
+hideColorSchemeToggle = false
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+
+[[params.social]]
+name = "Github"
+icon = "fa-brands fa-github fa-2x"
+weight = 1
+url = "https://github.com/pastey/"
+
+[[params.social]]
+name = "Mastodon"
+icon = "fa-brands fa-mastodon fa-2x"
+weight = 2
+url = "https://mastodon.social/@Pastey"
+
+[languages.en]
+languageName = "English"
+
+[[languages.en.menu.main]]
+name = "About"
+weight = 1
+url = "about/"
+
+[[languages.en.menu.main]]
+name = "Blog"
+weight = 2
+url = "posts/"
