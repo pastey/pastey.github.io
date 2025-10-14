@@ -26,6 +26,9 @@ dateFormat = "January 2, 2006"
 colorScheme = "auto"
 hideColorSchemeToggle = false
 
+[params.googleTagManager]
+id = "G-KR5VS7GE5B"
+
 [taxonomies]
 category = "categories"
 series = "series"
