@@ -2,7 +2,10 @@
   "permissions": {
     "allow": [
       "Bash(hugo server:*)",
-      "Bash(hugo list:*)"
+      "Bash(hugo list:*)",
+      "Bash(ls:*)",
+      "Bash(curl:*)",
+      "WebSearch"
     ],
     "deny": [],
     "ask": []
