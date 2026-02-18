@@ -6,7 +6,7 @@ draft = false
 
 Sometimes I see one thing in code, and it bugs me. An excessive love for Swift extensions. We extend everything left, and right.
 
-<!–more–>
+<!--more-->
 
 Let's start with a synthetic example, then work our way to real-world cases.
 
